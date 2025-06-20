@@ -1,5 +1,5 @@
 // Add your API endpoint here
-var API_ENDPOINT = "https://ow3iocezxf.execute-api.eu-west-1.amazonaws.com/Dev";
+var API_ENDPOINT = "https://ow3iocezxf.execute-api.eu-west-1.amazonaws.com/prod";
 
 // AJAX POST request to save student data
 document.getElementById("savestudent").onclick = function(){
